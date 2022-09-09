@@ -8,6 +8,12 @@
 # testing
 /coverage
 
+#webstrom
+*.idea
+*.ipr
+*.iml
+*.iws
+
 # production
 /build
 
